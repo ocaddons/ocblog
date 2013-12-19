@@ -1,5 +1,7 @@
 <?php 
 
+$config['site_title'] = 'OCADDONS - Professional OpenCart Addons';
+
 /*
 // Override any of the default settings below:
 
